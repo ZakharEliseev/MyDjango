@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # Создание веб страницы
     'MyWebPage1',
+    'MyWebPage2',
 ]
 
 MIDDLEWARE = [
